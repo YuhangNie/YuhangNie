@@ -57,24 +57,12 @@ I'm **Yuhang Nie** (聂宇航), a sophomore at **Shenzhen University** passionat
 ### 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YuhangNie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YuhangNie&show_icons=true&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YuhangNie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YuhangNie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YuhangNie&layout=compact&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuhangNie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </picture>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YuhangNie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YuhangNie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YuhangNie&theme=tokyonight&hide_border=true&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YuhangNie&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=YuhangNie&theme=tokyonight&hide_border=true&background=0D1117" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=YuhangNie&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </div>
 
 ---
